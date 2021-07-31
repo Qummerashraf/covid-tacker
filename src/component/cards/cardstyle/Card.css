@@ -1,0 +1,52 @@
+.card {
+  width: 80%;
+  background-color: #fcfbf7;
+  padding: 10px;
+  margin: 10px auto;
+  font-family: "Montserrat Alternates", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 0px 4px 2px #d8d8d8;
+          box-shadow: 0px 0px 4px 2px #d8d8d8;
+}
+
+.card h3 {
+  font-size: 22px;
+  color: #000;
+  padding: 10px 0px;
+}
+
+.card p {
+  font-size: 16px;
+  padding: 5px 0px;
+  font-weight: 400;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+.confirm {
+  border-bottom: 4px solid #0400ff;
+}
+
+.confirm h2 {
+  font-size: 18px;
+  color: #a6a0dd;
+}
+
+.death {
+  border-bottom: 4px solid red;
+}
+
+.death h2 {
+  font-size: 18px;
+  color: #f78585;
+}
+
+.recover {
+  border-bottom: 4px solid #09ff00;
+}
+
+.recover h2 {
+  font-size: 18px;
+  color: #61bd70;
+}
+/*# sourceMappingURL=Card.css.map */

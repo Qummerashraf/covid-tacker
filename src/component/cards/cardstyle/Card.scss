@@ -1,0 +1,46 @@
+.card {
+  width: 80%;
+  background-color: rgb(252, 251, 247);
+  padding: 10px;
+  margin: 10px auto;
+  font-family: "Montserrat Alternates", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  box-shadow: 0px 0px 4px 2px rgb(216, 216, 216);
+
+  h3 {
+    font-size: 22px;
+    color: #000;
+    padding: 10px 0px;
+  }
+  p {
+    font-size: 16px;
+    padding: 5px 0px;
+    font-weight: 400;
+    color: #000;
+    margin-bottom: 10px;
+  }
+}
+
+.confirm {
+  border-bottom: 4px solid rgb(4, 0, 255);
+  h2 {
+    font-size: 18px;
+    color: rgb(166, 160, 221);
+  }
+}
+
+.death {
+  border-bottom: 4px solid rgb(255, 0, 0);
+  h2 {
+    font-size: 18px;
+    color: rgb(247, 133, 133);
+  }
+}
+
+.recover {
+  border-bottom: 4px solid rgb(9, 255, 0);
+  h2 {
+    font-size: 18px;
+    color: rgb(97, 189, 112);
+  }
+}
